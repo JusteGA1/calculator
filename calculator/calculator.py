@@ -66,4 +66,5 @@ class Calculator():
 
     def reset_memory(self):
         """Resets memory to zero."""
-        return self.memory == 0
+        self.memory = 0
+        return self.memory
