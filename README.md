@@ -9,6 +9,7 @@ Calculator with basic functions: add, subtract, multiply, divide and take (n) ro
 * [Code Examples](#code-examples)
 * [Features](#features)
 * [Status](#status)
+* [License](#license)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
@@ -44,6 +45,11 @@ calculator.reset_memory()
 
 ## Status
 Project is: _finished_
+
+## License
+>You can check out the full license [here](https://opensource.org/licenses/MIT)
+
+This project is licensed under the terms of the **MIT** license.
 
 ## Inspiration
 Learning @Turing College
